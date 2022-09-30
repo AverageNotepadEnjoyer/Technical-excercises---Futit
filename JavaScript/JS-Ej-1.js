@@ -1,3 +1,5 @@
+//Ejercicio 1
+
 <html>
 <script type="text/javascript">
     var numLlamadas = 0;
@@ -23,5 +25,7 @@
 // 3) 2 (el valor de numLlamadas, que comienza en 0 pero incrementa en 1 cada vez que se invoca la función)
 // 4) undefined
 
-// Por último se muestra en pantalla "undefined" ya que cuadradoDeA no está definido. Si en lugar de pedir el tipo de cuadradoDeA se pidiera el de numLlamadas, este arrojaría "number", dado que es un número. O, si se pidiera el de calculaBinomio, arrojaría "function", ya que es una función.
+// Por último se muestra en pantalla "undefined" ya que cuadradoDeA no está definido.
+// Si en lugar de pedir el tipo de cuadradoDeA se pidiera el de numLlamadas, este arrojaría "number", dado que es un número.
+// O, si se pidiera el de calculaBinomio, arrojaría "function", ya que es una función.
 
